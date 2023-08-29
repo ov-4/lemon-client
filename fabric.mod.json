@@ -1,0 +1,36 @@
+{
+  "schemaVersion": 1,
+  "id": "lemon-client",
+  "version": "2.0.1-stable",
+  "name": "Lemon Client",
+  "description": "An addon based on the latest version of the meteor-client.",
+  "authors": [
+    "Fin_LemonKee",
+    "WuMie",
+    "EarthMe",
+    "dyzjct",
+    "iMadCat"
+  ],
+  "contact": {
+    "repo": "https://github.com/FinLemonKe"
+  },
+  "icon": "assets/lemon-client/icons/icon.png",
+  "environment": "client",
+  "entrypoints": {
+    "meteor": [
+      "dev.lemonclient.addon.LemonClient"
+    ]
+  },
+  "mixins": [
+    "lemon-client.mixins.json"
+  ],
+  "accessWidener": "lemon-client.accesswidener",
+  "custom": {
+    "meteor-client:color": "0,155,255"
+  },
+  "depends": {
+    "java": ">=17",
+    "minecraft": ">=1.20",
+    "meteor-client": "*"
+  }
+}
