@@ -1,6 +1,7 @@
 # lemon-client
 ## Ez cracked by *_ov4* and *N1neL1ves_*
 ## This project is archived now. [Visit a new project.](https://github.com/XxHausemasterxX/ov4client)
+### Download Lemon 0.3.9-beta cracked [here](https://github.com/XxHausemasterxX/lemon-client/releases/tag/0.3.9-beta)
 
 ### Use it to against Ching Chong
 ### Free configs in [this discord server](https://discord.gg/yNJkbWX8Kj)
