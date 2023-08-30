@@ -38,7 +38,8 @@ public class Hwid {
       } catch (Exception var5) {
          var5.printStackTrace();
       }
-
+      // return false; // Crash the game if hwid is not matched
+      // Ez cracked, just changed one word
       return true;
    }
 
