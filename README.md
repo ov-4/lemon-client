@@ -1,6 +1,6 @@
 # lemon-client
 ## Ez cracked by *_ov4* and *N1neL1ves_*
-## This project is archived now. [Visit a new project.](https://github.com/XxHausemasterxX/ov4client)
+## This project is archived now. [Visit our new project - Snow Addon](https://github.com/XxHausemasterxX/SnowAddon)
 ### Download Lemon 0.3.9-beta cracked [here](https://github.com/XxHausemasterxX/lemon-client/releases/tag/0.3.9-beta)
 
 ### Use it to against Ching Chong
